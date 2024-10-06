@@ -1,1 +1,193 @@
 
+<html>
+<head>
+<title>Christian Sandvig's Homepage</title>
+<link rel="stylesheet" href="master.css">
+<SCRIPT LANGUAGE="JavaScript1.2" SRC="quote-engine.js" TYPE="text/javascript"></SCRIPT>
+</head>
+<body bgcolor="#ffffff" marginheight="0" marginwidth="0" style="margin:0px;" onLoad="writeQuote();">
+
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr valign="top">
+  <td style="width:3%;">
+   <!-- this is the left margin -->
+   <img src="images/accent_left2.gif" alt=""><img src="images/spacer.gif" alt="" width="10" height="10">
+  </td>
+  <td valign="top" align="right" style="width:20%;">
+
+   <!-- start left cell content -->
+
+   <p> <br> </p>
+   <p>
+    <img src="images/christian_sandvig_headshot_new_2.jpg" border="0"
+     style="border:1px dotted #000000;width:200px;padding:4px 4px 4px 4px;width:95%;"
+     alt="Christian Sandvig portrait">
+   </p>
+   <p>
+    &nbsp;<br>
+   </p>
+
+   <DIV id="quoteDiv">
+    <LAYER id="quoteLayer">
+    </LAYER>
+   </DIV>
+
+   <!-- end left cell content -->
+  </td>
+  <td style="width:3%;">
+   <!-- this is the gutter -->
+   <img src="images/spacer.gif" alt="" width="100" height="10"><br>
+  </td>
+  <td style="width:auto;">
+   <!-- start right cell content -->
+
+   <p> <br> </p>
+   <p>
+    <img src="images/title_christian_sandvig.png" alt="Christian Sandvig"><br><img src="images/spacer.gif" border="0" alt="" width="10" height="8"><br>
+    <font color="#777777"><b>home</b></font> &nbsp;
+    <a class="menu" href="hype.html" title="the filename is another word for 'bio'">bio</a> &nbsp; 	<!--
+        <a class="menu" href="Sandvig_CV-web.pdf" title="curriculum vita">cv</a> &nbsp; -->
+    <a class="menu" href="research/" title="list of research articles">research</a> &nbsp;
+    <a class="menu" href="teaching.html" title="list of courses">teaching</a> <!-- &nbsp; 
+    <a class="menu" href="talks.html" title="list of invited lectures">talks</a>  --> &nbsp;
+    <a class="menu" href="hello.html" title="not a mailto: link">say hello</a>  &nbsp; || &nbsp; 
+    <a class="menu" href="http://socialmediacollective.org/author/niftyc/" title="my blog, multicast">blog</a> &nbsp;
+	<a class="menu" href="http://lab.csandvig.people.si.umich.edu/">lab</a> &nbsp; 
+	<a class="menu" href="__Sandvig_CV--brief.pdf" title="curriculum vita">cv</a> &nbsp;
+    <br>
+   ____________________________________________________________________
+   </p>
+   <p>
+     <br>
+   </p>
+   <p>
+    Thanks for thinking I'm interesting enough to check up on.
+    If you've come this far, I dare you to
+    <a href="hello.html" title="this is not a mailto: link">say hello</a>
+    before you leave.
+   </p>
+   
+   
+      <p><div style="border:1px dotted #000000;padding:5px 5px 5px 5px;font-size:1.2em;margin:25px 25px 25px 25px;">
+      <strong>OF INTEREST:</strong> Over several years I <a href="https://www.aclu.org/cases/sandvig-v-sessions-challenge-cfaa-prohibition-uncovering-racial-discrimination-online">sued the Attorney General of the United States</a> in order to protect researchers and journalists who investigate online platforms. A March 2020 ruling was hailed as &quot;<a href="https://www.aclu.org/press-releases/federal-court-rules-big-data-discrimination-studies-do-not-violate-federal-anti">a major victory for civil liberties and civil rights enforcement</a>.&quot; <br> <br>
+	  
+	  <strong>AS OF JUNE 2021</strong>:
+      The <a href="https://www.aclu.org/press-releases/statement-supreme-court-decision-removing-hurdles-online-civil-rights-testing-and">US Supreme Court has ruled</a> that journalists &amp; computing researchers who investigate online platforms aren't criminal hackers who &quot;exceed authorized access.&quot; And they cited... us! Very exciting.<br> <br>
+	  
+	  <strong>AS OF MAY 2022</strong>: The US Department of Justice has <a href="https://www.bloomberg.com/news/articles/2022-05-19/us-prosecutors-won-t-charge-white-hat-hackers-under-new-policy?embedded-checkout=true">changed national policy</a> on hacking prosecutions based on our research. This means we have successfully changed the definition of hacking.<br> <br>
+
+          <strong><font color="red"><strong>NEW:</strong></font> AS OF APRIL 2024</strong>: Our team won the <a href="https://www.icahdq.org/blogpost/1523657/489465/Congratulations-ICA-Award-Winners">ICA Outstanding Public Research Award</a> and the UM <a href="https://record.umich.edu/articles/sandvig-dworkin-receive-2023-public-engagement-awards/">President's Award for Public Engagement</a> for the &quot;courageous and spirited defense of civil rights that changed the law of the United States.&quot; Hooray! I am very grateful.<br> <br>
+
+	  (Here is <a href="https://socialmediacollective.org/2017/10/19/heading-to-the-courthouse-for-sandvig-v-sessions/">an older summary of the case</a>.)<br> <br>
+   </div></p>
+   
+
+
+   </div></p>
+   <p> <br> </p>
+   <p> <br> </p>
+
+      <p>I am the Director of <a href="http://esc.umich.edu/">ESC: the Center for Ethics, Society, and Computing</a> as well as the H. Marshall McLuhan Collegiate Professor at the 
+        <a href="http://www.umich.edu/">University of Michigan</a>.</p>
+
+      <p>At Michigan I teach <strong>courses about computers, data science, and justice</strong> in the <a href="http://si.umich.edu/">School of Information</a>. I am jointly appointed in the <a href="http://www.isr.umich.edu/cps/">Center for Political Studies</a> at the 
+       <a href="http://home.isr.umich.edu/">Institute for Social Research</a>.</p>
+	   
+	   <p>I am also in <a href="http://www.lsa.umich.edu/comm/">Communication &amp; Media</a>, <a href="http://stamps.umich.edu/">Art &amp; Design</a>; <a href="http://www.lsa.umich.edu/sts/">Science, Technology, &amp; Society</a>; the  
+        <a href="https://www.digitalstudies.umich.edu/">Digital Studies Institute</a>; and the <a href="https://midas.umich.edu/">Michigan Institute for Data &amp; AI in Society</a>.</p>
+ 
+      <p><a href="research/">My research</a> investigates the consequences of <b>AI systems that curate and organize culture and information</b>. I have done a bunch of prior work on <b>social media</b>.</p>
+	  
+	  <p>Usually,
+        I read. Sometimes, I write. Often, I drink coffee. I might be found in
+        a cafe drinking coffee and reading, or at home drinking coffee and writing.
+        Or just drinking coffee. (This is supposed to be a fun, informal description of what I do. I also have <a href="hype.html">a more formal one</a> and <a href="research/">introductory examples</a>.)</p>
+      <!-- <p>My research group has a <strong>Web site</strong> too; see <a href="http://pact.uiuc.edu/">http://pact.uiuc.edu/</a>.</p> -->
+      <p> &nbsp; </p>
+      <p> &nbsp; </p>
+
+      <table cellspacing="10"><tr valign="top"><td>
+        <p>US Mail:</p>
+      </td><td>
+
+       <p>
+        Christian Sandvig<br>
+		University of Michigan<br>
+		School of Information <br>
+		105 South State Street <br>
+		Ann Arbor, MI 48109-1285<br>
+        USA
+
+
+      </td>
+     </tr><tr valign="top"><td>
+        <p>Mailbox:</p>
+      </td><td>
+       <p>
+        Faculty mailboxes are in 4351 North Quad
+       </p>
+
+      </td>
+     </tr><tr valign="top"><td>
+        <p>Office:</p>
+      </td><td>
+       <p>
+        4435 North Quad<br>
+        </p><p>
+		office phone: (734) 763-0861<br>
+        FAX: (734) 764-3288<br>
+       </p>
+
+
+      </td>
+     </tr><tr valign="top"><td>
+        <p>E-mail:</p>
+      </td><td>
+
+       <p>
+        csandvig@umich.edu
+       </p>
+
+      </tr><tr>
+
+      </td></tr></table>
+
+
+      <!-- end right cell content -->
+  </td>  
+  <td style="width:3%;">
+   <!-- this is the right margin -->
+   <img src="images/spacer.gif" alt="" width="80" height="10"><br>
+  </td>
+ </tr>
+</table>
+
+<div align="right">
+<table cellspacing="0" cellpadding="0" border="0">
+ <tr valign="top">
+  <td colspan="2" align="right">
+   ____________________________<br>
+  </td>
+  <td rowspan="2">
+   <nowrap><img src="images/spacer.gif" alt="" width="25" height="10"><img src="images/accent_right2.gif" alt=""></nowrap><br>
+  </td>
+ </tr>
+ <tr valign="top">
+  <td>
+   <img src="images/spacer.gif" width="370" height="2" alt="">
+  </td>
+      <td class="small"> Last modified: 
+	  	
+        13 Sep 24
+		<br>
+   <a href="mailto:csandvig@umich.edu" title="send an e-mail message to this address">csandvig@umich.edu</a><br>
+   This page: <a href="https://umich.edu/~csandvig" title="this address is a shortcut to where you are now">umich.edu/~csandvig</a>
+
+  </td>
+ </tr>
+</table>
+</div>
+
+
+</body>
+</html>
