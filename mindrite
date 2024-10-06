@@ -1,36 +1,10 @@
+## lavendar e6e1fc blueishgreen #629dc4 limgegreen #d7d281
 <html>
 <head>
-<title>Christian Sandvig's Homepage</title>
-<link rel="stylesheet" href="master.css">
-<SCRIPT LANGUAGE="JavaScript1.2" SRC="quote-engine.js" TYPE="text/javascript"></SCRIPT>
+<title>Mindrite</title>
+<link rel="stylesheet" href="mindstyle.css">
+<SCRIPT LANGUAGE="JavaScript1.2" SRC="mindstyle.js" TYPE="text/javascript"></SCRIPT>
 </head>
-<body bgcolor="#ffffff" marginheight="0" marginwidth="0" style="margin:0px;" onLoad="writeQuote();">
-
-<table border="0" cellspacing="0" cellpadding="0">
- <tr valign="top">
-  <td style="width:3%;">
-   <!-- this is the left margin -->
-   <img src="images/accent_left2.gif" alt=""><img src="images/spacer.gif" alt="" width="10" height="10">
-  </td>
-  <td valign="top" align="right" style="width:20%;">
-
-   <!-- start left cell content -->
-
-   <p> <br> </p>
-   <p>
-    <img src="images/christian_sandvig_headshot_new_2.jpg" border="0"
-     style="border:1px dotted #000000;width:200px;padding:4px 4px 4px 4px;width:95%;"
-     alt="Christian Sandvig portrait">
-   </p>
-   <p>
-    &nbsp;<br>
-   </p>
-
-   <DIV id="quoteDiv">
-    <LAYER id="quoteLayer">
-    </LAYER>
-   </DIV></body></html>
-
-   <!-- end left cell content -->
-  </td>
-  <td style="width:3%;">
+<body bgcolor="#e6e1fc" marginheight="0" marginwidth="0" style="margin:0px;" onLoad="writeQuote();">
+</body>
+</html>
